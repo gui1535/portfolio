@@ -20,10 +20,7 @@
                     <a class="nav-link" href="#portfolio">Portfólio</a>
                 </li> 
                 <li class="nav-item">
-                    <a class="nav-link" href="#contato">Contato</a>
-                </li>
-                <li class="nav-item">
-                    <a class="btn btn-primary rounded ml-4" href="components.html">Contato</a>
+                    <a class="btn btn-primary rounded ml-4 nav-link text-white" href="#contato">Contato</a>
                 </li>
             </ul>
         </div>
