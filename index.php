@@ -22,45 +22,45 @@
 
     <!-- MAIN -->
     <main class="main" id="home">
-        <?php include 'components/main.php'; ?>
+        <?php include 'sections/main.php'; ?>
     </main>
     <!-- END MAIN -->
 
     <!-- SOBRE -->
     <section id="sobre" class="section mt-3">
-        <?php include 'components/sobre.php'; ?>
+        <?php include 'sections/sobre.php'; ?>
     </section>
     <!-- END SOBRE -->
 
     <!-- SERVICOS -->
     <section id="servico" class="section">
-        <?php include 'components/servicos.php'; ?>
+        <?php include 'sections/servicos.php'; ?>
     </section>
     <!-- END SERVICOS -->
 
     <!-- SKILLS -->
     <!-- <section class="section">
         <?php
-        //  include 'components/skills.php'; 
+        //  include 'sections/skills.php'; 
         ?>
     </section> -->
     <!-- END SKILLS -->
 
     <!-- PORTFOLIO -->
     <section id="portfolio" class="section">
-        <?php include 'components/portfolio.php'; ?>
+        <?php include 'sections/portfolio.php'; ?>
     </section>
     <!-- END PORTFOLIO -->
 
     <!-- CONTRATE-ME -->
     <section class="bg-gray p-0 section">
-        <?php include 'components/contrate-me.php'; ?>
+        <?php include 'sections/contrate-me.php'; ?>
     </section>
     <!-- END CONTRATE-ME -->
 
     <!-- CONTATO -->
     <section id="contato" class="position-relative section">
-        <?php include 'components/contato.php'; ?>
+        <?php include 'sections/contato.php'; ?>
     </section>
     <!-- END CONTATO -->
 
