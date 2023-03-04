@@ -12784,3 +12784,50 @@ pre {
   font-weight: bold;
   color: #495057;
 }
+
+@media (max-width: 770px) {
+  .infos .subtitle {
+    font-size: 16px !important;
+  }
+
+  .infos .title {
+    font-size: 56px !important;
+  }
+
+  .infos p {
+    font-size: 18px !important;
+  }
+}
+
+@media (max-width: 500px) {
+  .infos .subtitle {
+    font-size: 14px !important;
+  }
+
+  .infos .title {
+    font-size: 36px !important;
+  }
+
+  .infos p {
+    font-size: 12px !important;
+  }
+
+  .infos .buttons a {
+    font-size: 11px !important;
+  }
+}
+
+
+@media (max-width: 330px) {
+  .infos .subtitle {
+    font-size: 12px !important;
+  }
+
+  .infos .title {
+    font-size: 30px !important;
+  }
+
+  .infos p {
+    font-size: 11px !important;
+  }
+}
