@@ -6,7 +6,7 @@
          <p>Desenvolvedor FullStack</p>
 
          <div class="buttons pt-3">
-             <button class="btn btn-primary rounded nav-link" href="#contato">Contate-me</button>
+             <a class="btn btn-primary rounded nav-link" href="#contato">Contate-me</a>
              <!-- <button class="btn btn-dark rounded">Meu currículo</button> -->
          </div>
 
