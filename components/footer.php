@@ -7,10 +7,10 @@
         </div>
         <div class="col-sm-2">
             <div class="socials">
-                <a class="social-item" href="https://github.com/gui1535">
+                <a target="_blank" class="social-item" href="https://github.com/gui1535">
                     <i class="ti-github"></i>
                 </a>
-                <a class="social-item" href="https://www.linkedin.com/in/guilhermearaujo1/">
+                <a target="_blank" class="social-item" href="https://www.linkedin.com/in/guilhermearaujo1/">
                     <i class="ti-linkedin"></i>
                 </a>
             </div>
