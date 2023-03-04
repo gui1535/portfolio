@@ -9,7 +9,7 @@
         </div> -->
         <div class="pl-md-4 col-md-12">
             <p>
-                Meu nome é Guilherme Araujo, sou desenvolvedor apaixonado pela arte da programação.
+                Meu nome é Guilherme Araujo, sou desenvolvedor full stack.
                 Gosto trabalhar em projetos desafiadores e colaborar com outros desenvolvedores
                 para criar soluções inovadoras e eficientes, sempre buscando novos desafios para
                 expandir meus conhecimentos e habilidades.
