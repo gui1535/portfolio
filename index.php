@@ -71,13 +71,17 @@
     <!-- END FOOTER -->
 
     <!-- JQUERY  -->
-    <script src="assets/vendors/jquery/jquery-3.4.1.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
     <!-- BOOTSTRAP BUNDLE  -->
     <script src="assets/vendors/bootstrap/bootstrap.bundle.js"></script>
     <!-- BOOTSTRAP AFFIX -->
     <script src="assets/vendors/bootstrap/bootstrap.affix.js"></script>
     <!-- MAIN -->
     <script src="assets/js/main.js"></script>
+    <!-- FORM -->
+    <script src="assets/js/form.js"></script>
+    <!-- TOAST -->
+    <script src="assets/vendors/toast/toast.js"></script>
 
 </body>
 
