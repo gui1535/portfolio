@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" data-spy="affix" data-offset-top="0">
     <div class="container">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand nav-link p-0" href="#home">
             <!-- <img src="assets/imgs/logo.svg" alt=""> -->
             <span class="logotipo-texto">Guilherme</span>
         </a>
