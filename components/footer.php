@@ -5,7 +5,7 @@
                     document.write(new Date().getFullYear())
                 </script> &copy; <a href="https://github.com/gui1535" target="_blank">Guilherme Araujo</a></p>
         </div>
-        <div class="col-sm-2">
+        <div class="col-sm-2 d-flex justify-content-end">
             <div class="socials">
                 <a target="_blank" class="social-item" href="https://github.com/gui1535">
                     <i class="ti-github"></i>
