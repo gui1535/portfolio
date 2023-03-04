@@ -5033,6 +5033,7 @@ input[type="button"].btn-block {
 }
 
 .navbar-collapse {
+  padding-bottom: 20px;
   -webkit-flex-basis: 100%;
   -ms-flex-preferred-size: 100%;
   flex-basis: 100%;
