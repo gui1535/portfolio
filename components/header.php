@@ -1,6 +1,9 @@
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" data-spy="affix" data-offset-top="0">
     <div class="container">
-        <a class="navbar-brand" href="#"><img src="assets/imgs/logo.svg" alt=""></a>
+        <a class="navbar-brand" href="#">
+            <!-- <img src="assets/imgs/logo.svg" alt=""> -->
+            <span class="logotipo-texto">Guilherme</span>
+        </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -18,7 +21,7 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#portfolio">Portfólio</a>
-                </li> 
+                </li>
                 <li class="nav-item">
                     <a class="btn btn-primary rounded ml-4 nav-link text-white" href="#contato">Contato</a>
                 </li>

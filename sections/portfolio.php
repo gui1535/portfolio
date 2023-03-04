@@ -1,12 +1,13 @@
 <div class="container text-center">
     <h6 class="subtitle">Portfolio</h6>
     <h6 class="section-title mb-4">Portfolio</h6>
-    <p class="mb-5 pb-4">
+    <!-- <p class="mb-5 pb-4"> -->
+    <p class="mb-3 pb-4">
         Confira alguns dos meus projetos
     </p>
 
     <div class="row">
-        <div class="col-sm-4">
+        <!-- <div class="col-sm-4">
             <div class="img-wrapper">
                 <img src="assets/imgs/folio-1.jpg" alt="">
                 <div class="overlay">
@@ -17,7 +18,10 @@
                     </div>
                 </div>
             </div>
+        </div> -->
 
+        <div class="col-md-12 text-center">
+            <span class="text-em-breve">Em Breve</span>
         </div>
     </div>
 
